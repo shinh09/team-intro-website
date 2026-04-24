@@ -4,22 +4,21 @@
 
 ## 👥 팀원
 
-| 이름 | GitHub | 역할 | 담당 업무 |
-|------|--------|------|-----------|
-| 박신형 | @shpark | 👑 팀장 | Repo 생성·보호 설정, 메인 페이지 개발 |
-| 최다래 | @darae-choi | 팀원 | 이슈 템플릿, PR 템플릿 작성 |
-| 고현석 | @hyunseok-ko | 팀원 | Prettier, ESLint 설정 |
-| 현석원 | @seokwon-hyun | 팀원 | Husky, Commitlint 설정 |
-| 채수연 | @suyeon-chae | 팀원 | .gitignore, CONTRIBUTING.md 작성 |
-| 김대구 | @daegu-kim | 팀원 | CSS 디자인 시스템, 반응형 레이아웃 |
-| 도윤혁 | @yunhyeok-do | 팀원 | GitHub Actions CI 설정 |
-| 송형진 | @hyungjin-song | 팀원 | README 작성, GitHub Pages 배포 |
+| 이름 | 역할 |
+|------|------|
+| 박신형 | 팀장 |
+| 최다래 | 팀원 |
+| 고현석 | 팀원 |
+| 현석원 | 팀원 |
+| 채수연 | 팀원 |
+| 김대구 | 팀원 |
+| 도윤혁 | 팀원 |
+| 송형진 | 팀원 |
 
 ## 🏁 빠른 시작
 
 ```bash
 # 1. 팀장 repo fork 후 clone
-git clone https://github.com/YOUR_GITHUB_ID/team-intro-website.git
 cd team-intro-website
 
 # 2. 초기 세팅 스크립트 실행
